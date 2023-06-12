@@ -8,7 +8,6 @@ import { Div1 } from "./About.style";
 import { Multicard } from "./About.style";
 import { Tech } from "./About.style";
 import Member1 from "../../Assets/Images/saurabh.jpg";
-import Member2 from "../../Assets/Images/pradeep.jpg";
 import Html1 from "../../Assets/Images/html.png";
 import css from "../../Assets/Images/css-3.png";
 import Rt from "../../Assets/Images/react.png";
